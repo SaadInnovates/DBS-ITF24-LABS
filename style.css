@@ -53,7 +53,7 @@ body{
     height: 100%;
     width: 95%;
     font-size: 52px;
-    color: dodgerblue !important;
+    color: #1E3A8A !important;
     padding:1rem;
 
     display: flex;
@@ -64,11 +64,11 @@ body{
 }
 
 a{
-    color: dodgerblue;
+    color: #2563EB;
 }
 
 a:hover{
-    color: red;
+    color: #1E40AF;
     transition: 1s;
 }
 
@@ -104,7 +104,7 @@ a:hover{
 h1{
     font-family: 'Courier New', Courier, monospace;
     margin: 3rem;
-    color: red;
+    color: #1E3A8A;
 }
 
 .wp-img {
@@ -133,7 +133,7 @@ h1{
     height: 23px;
     margin: 8px;
     outline: none;
-    border: 2px solid dodgerblue;
+    border: 2px solid #2563EB;
     border-radius: 5px;
     background-color: whitesmoke;
 }
@@ -145,8 +145,8 @@ h1{
 
 .btn-style {
     color: white;
-    background-color: dodgerblue;
-    border: 3px solid dodgerblue;
+    background-color: #2563EB;
+    border: 3px solid #2563EB;
     border-radius: 5px;
     height: 33px;
     width: 65px;
@@ -154,8 +154,8 @@ h1{
 }
 
 .btn-style:hover {
-    background-color: red;
-    border: 3px solid red;
+    background-color: #1E40AF;
+    border: 3px solid #1E40AF;
     transition: .5s;
 }
 
@@ -168,7 +168,7 @@ h1{
 }
 
 .wp-assignment span:nth-child(1) {
-    background-color: red;
+    background-color: #DC2626;
     color: white;
     font-size: 9px;
     font-style: italic;
@@ -186,8 +186,8 @@ h1{
     font-style: italic;
     font-size: 12px;
 
-    background-color: greenyellow;
-    color: black;
+    background-color: #22C55E;
+    color: white;
     padding: 0 3px 0 3px;
 }
 
